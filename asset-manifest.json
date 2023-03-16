@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/StreamPlex/static/css/main.ac9e7f3f.css",
+    "main.js": "/StreamPlex/static/js/main.63c36a7b.js",
+    "static/media/Background.jpg": "/StreamPlex/static/media/Background.8250e400b1e6e13ef95b.jpg",
+    "static/media/title.png": "/StreamPlex/static/media/title.05799445d47363b0526f.png",
+    "static/media/iconlogo.png": "/StreamPlex/static/media/iconlogo.33f04b0de70fb2d0206e.png",
+    "index.html": "/StreamPlex/index.html",
+    "main.ac9e7f3f.css.map": "/StreamPlex/static/css/main.ac9e7f3f.css.map",
+    "main.63c36a7b.js.map": "/StreamPlex/static/js/main.63c36a7b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ac9e7f3f.css",
+    "static/js/main.63c36a7b.js"
+  ]
+}
